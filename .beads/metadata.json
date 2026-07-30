@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "PersonalProjects",
+  "project_id": "fd1b0e6c-7c12-418c-9105-644bba74fd85"
+}
