@@ -1,0 +1,5 @@
+# Obsidian session UI — vault settings (app.json, core-plugins.json) may be committed
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.DS_Store
